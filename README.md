@@ -7,7 +7,7 @@
 Bikesharing
 
 ### Description
-zum analysieren von leihen der Fahrräder für die städte chicago, washington und new york
+to analyze bike rentals for the cities of chicago, washington and new york
 
 ### Files used
 chicago.csv = containing all bikeshare information for the city of Chicago provided by Udacity.
