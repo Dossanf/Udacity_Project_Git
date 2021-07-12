@@ -15,5 +15,5 @@ new_york_city.csv = containing all bikeshare information for the city of New Yor
 washington.csv = containing all bikeshare information for the city of Washington, dont have the information 'Gender', provided by Udacity.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted. 
 
